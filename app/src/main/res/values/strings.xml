@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cricket thermometer</string>
+    <string name="hint_id1">Did you know how can you know the temperature outside by the counting the number of chirps makes by the cricket .count the number of chirps makes in 25 sec and put it below</string>
+    <string name="hint_id2">number of chirps in 25 seconds</string>
+    <string name="hint_id3">calculate temperature</string>
+    <string name="hint_id4">TextView</string>
+    <string name="hint_id5">TODO</string>
+</resources>
